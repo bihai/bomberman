@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Bomberman" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Bomberman.exe" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Bomberman.exe" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-mwindows" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="gdi32" />
+			<Add library="libfmod.a" />
+			<Add library="C:\MinGW\lib\lua51.lib" />
+		</Linker>
+		<Unit filename="Bomberman.cpp" />
+		<Unit filename="Bomberman.h" />
+		<Unit filename="OGL.cpp" />
+		<Unit filename="OGL.h" />
+		<Unit filename="ai.cpp" />
+		<Unit filename="ai.h" />
+		<Unit filename="bomb.cpp" />
+		<Unit filename="bomb.h" />
+		<Unit filename="commons.cpp" />
+		<Unit filename="commons.h" />
+		<Unit filename="debugout.cpp" />
+		<Unit filename="debugout.h" />
+		<Unit filename="geometry.cpp" />
+		<Unit filename="geometry.h" />
+		<Unit filename="gltext.cpp" />
+		<Unit filename="gltext.h" />
+		<Unit filename="map.cpp" />
+		<Unit filename="map.h" />
+		<Unit filename="model.cpp" />
+		<Unit filename="model.h" />
+		<Unit filename="particle.cpp" />
+		<Unit filename="particle.h" />
+		<Unit filename="player.cpp" />
+		<Unit filename="player.h" />
+		<Unit filename="settings.h" />
+		<Unit filename="sound.cpp" />
+		<Unit filename="sound.h" />
+		<Unit filename="timestamp.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="timestamp.H" />
+		<Extensions>
+			<code_completion />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

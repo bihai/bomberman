@@ -1,0 +1,1625 @@
+2007 Sep 259 15:47:21> -------- Program start.
+2007 Sep 259 15:47:22> Initialization commencing.
+2007 Sep 259 15:47:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 15:47:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 15:47:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 15:47:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 15:47:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 15:47:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 15:47:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 15:47:26> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 15:47:26> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 15:47:26> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 15:47:26> Script(AI0): Script initialization.
+2007 Sep 259 15:47:26> Script(AI1): Script initialization.
+2007 Sep 259 15:47:26> Script(AI2): Script initialization.
+2007 Sep 259 15:47:26> Script(AI3): Script initialization.
+2007 Sep 259 15:47:26> Initialization completed.
+2007 Sep 259 15:47:26> Program running.
+2007 Sep 259 15:48:14> Program end.
+2007 Sep 259 15:49:02> -------- Program start.
+2007 Sep 259 15:49:02> Initialization commencing.
+2007 Sep 259 15:49:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 15:49:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 15:49:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 15:49:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 15:49:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 15:49:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 15:49:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 15:49:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 15:49:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 15:49:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 15:49:04> Script(AI0): Script initialization.
+2007 Sep 259 15:49:04> Script(AI1): Script initialization.
+2007 Sep 259 15:49:04> Script(AI2): Script initialization.
+2007 Sep 259 15:49:04> Script(AI3): Script initialization.
+2007 Sep 259 15:49:04> Initialization completed.
+2007 Sep 259 15:49:04> Program running.
+2007 Sep 259 15:49:05> Program end.
+2007 Sep 259 15:49:39> -------- Program start.
+2007 Sep 259 15:49:40> Initialization commencing.
+2007 Sep 259 15:49:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 15:49:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 15:49:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 15:49:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 15:49:41> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 15:49:41> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 15:49:41> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 15:49:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 15:49:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 15:49:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 15:49:42> Script(AI0): Script initialization.
+2007 Sep 259 15:49:42> Script(AI1): Script initialization.
+2007 Sep 259 15:49:42> Script(AI2): Script initialization.
+2007 Sep 259 15:49:42> Script(AI3): Script initialization.
+2007 Sep 259 15:49:42> Initialization completed.
+2007 Sep 259 15:49:42> Program running.
+2007 Sep 259 15:49:43> Program end.
+2007 Sep 259 15:49:45> -------- Program start.
+2007 Sep 259 15:49:45> Initialization commencing.
+2007 Sep 259 15:49:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 15:49:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 15:49:46> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 15:49:46> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 15:49:46> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 15:49:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 15:49:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 15:49:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 15:49:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 15:49:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 15:49:47> Script(AI0): Script initialization.
+2007 Sep 259 15:49:47> Script(AI1): Script initialization.
+2007 Sep 259 15:49:47> Script(AI2): Script initialization.
+2007 Sep 259 15:49:47> Script(AI3): Script initialization.
+2007 Sep 259 15:49:47> Initialization completed.
+2007 Sep 259 15:49:47> Program running.
+2007 Sep 259 15:49:53> Program end.
+2007 Sep 259 15:58:10> -------- Program start.
+2007 Sep 259 15:58:10> Initialization commencing.
+2007 Sep 259 15:58:11> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 15:58:11> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 15:58:11> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 15:58:11> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 15:58:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 15:58:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 15:58:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 15:58:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 15:58:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 15:58:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 15:58:13> Script(AI0): Script initialization.
+2007 Sep 259 15:58:13> Script(AI1): Script initialization.
+2007 Sep 259 15:58:13> Script(AI2): Script initialization.
+2007 Sep 259 15:58:13> Script(AI3): Script initialization.
+2007 Sep 259 15:58:13> Initialization completed.
+2007 Sep 259 15:58:13> Program running.
+2007 Sep 259 15:58:13> Program end.
+2007 Sep 259 16:03:23> -------- Program start.
+2007 Sep 259 16:03:23> Initialization commencing.
+2007 Sep 259 16:03:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 16:03:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 16:03:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 16:03:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 16:03:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 16:03:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 16:03:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 16:03:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 16:03:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 16:03:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 16:03:25> Script(AI0): Script initialization.
+2007 Sep 259 16:03:25> Script(AI1): Script initialization.
+2007 Sep 259 16:03:25> Script(AI2): Script initialization.
+2007 Sep 259 16:03:25> Script(AI3): Script initialization.
+2007 Sep 259 16:03:25> Initialization completed.
+2007 Sep 259 16:03:25> Program running.
+2007 Sep 259 16:03:27> Program end.
+2007 Sep 259 16:04:13> -------- Program start.
+2007 Sep 259 16:04:13> Initialization commencing.
+2007 Sep 259 16:04:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 16:04:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 16:04:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 16:04:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 16:04:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 16:04:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 16:04:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 16:04:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 16:04:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 16:04:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 16:04:16> Script(AI0): Script initialization.
+2007 Sep 259 16:04:16> Script(AI1): Script initialization.
+2007 Sep 259 16:04:16> Script(AI2): Script initialization.
+2007 Sep 259 16:04:16> Script(AI3): Script initialization.
+2007 Sep 259 16:04:16> Initialization completed.
+2007 Sep 259 16:04:16> Program running.
+2007 Sep 259 16:04:22> Program end.
+2007 Sep 259 16:04:23> -------- Program start.
+2007 Sep 259 16:04:23> Initialization commencing.
+2007 Sep 259 16:04:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 16:04:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 16:04:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 16:04:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 16:04:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 16:04:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 16:04:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 16:04:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 16:04:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 16:04:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 16:04:25> Script(AI0): Script initialization.
+2007 Sep 259 16:04:25> Script(AI1): Script initialization.
+2007 Sep 259 16:04:25> Script(AI2): Script initialization.
+2007 Sep 259 16:04:25> Script(AI3): Script initialization.
+2007 Sep 259 16:04:25> Initialization completed.
+2007 Sep 259 16:04:25> Program running.
+2007 Sep 259 16:04:27> Program end.
+2007 Sep 259 16:04:28> -------- Program start.
+2007 Sep 259 16:04:28> Initialization commencing.
+2007 Sep 259 16:04:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 16:04:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 16:04:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 16:04:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 16:04:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 16:04:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 16:04:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 16:04:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 16:04:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 16:04:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 16:04:30> Script(AI0): Script initialization.
+2007 Sep 259 16:04:30> Script(AI1): Script initialization.
+2007 Sep 259 16:04:30> Script(AI2): Script initialization.
+2007 Sep 259 16:04:30> Script(AI3): Script initialization.
+2007 Sep 259 16:04:30> Initialization completed.
+2007 Sep 259 16:04:30> Program running.
+2007 Sep 259 16:04:56> Program end.
+2007 Sep 259 16:05:25> -------- Program start.
+2007 Sep 259 16:05:25> Initialization commencing.
+2007 Sep 259 16:05:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 16:05:26> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 16:05:26> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 16:05:26> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 16:05:27> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 16:05:27> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 16:05:27> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 16:05:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 16:05:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 16:05:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 16:05:28> Script(AI0): Script initialization.
+2007 Sep 259 16:05:28> Script(AI1): Script initialization.
+2007 Sep 259 16:05:28> Script(AI2): Script initialization.
+2007 Sep 259 16:05:28> Script(AI3): Script initialization.
+2007 Sep 259 16:05:28> Initialization completed.
+2007 Sep 259 16:05:28> Program running.
+2007 Sep 259 16:05:50> Program end.
+2007 Sep 259 16:06:02> -------- Program start.
+2007 Sep 259 16:06:02> Initialization commencing.
+2007 Sep 259 16:06:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 16:06:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 16:06:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 16:06:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 16:06:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 16:06:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 16:06:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 16:06:05> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 16:06:05> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 16:06:05> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 16:06:05> Script(AI0): Script initialization.
+2007 Sep 259 16:06:05> Script(AI1): Script initialization.
+2007 Sep 259 16:06:05> Script(AI2): Script initialization.
+2007 Sep 259 16:06:05> Script(AI3): Script initialization.
+2007 Sep 259 16:06:05> Initialization completed.
+2007 Sep 259 16:06:05> Program running.
+2007 Sep 259 16:06:07> Program end.
+2007 Sep 259 16:07:32> -------- Program start.
+2007 Sep 259 16:07:32> Initialization commencing.
+2007 Sep 259 16:07:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 16:07:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 16:07:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 16:07:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 16:07:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 16:07:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 16:07:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 16:07:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 16:07:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 16:07:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 16:07:35> Script(AI0): Script initialization.
+2007 Sep 259 16:07:35> Script(AI1): Script initialization.
+2007 Sep 259 16:07:35> Script(AI2): Script initialization.
+2007 Sep 259 16:07:35> Script(AI3): Script initialization.
+2007 Sep 259 16:07:35> Initialization completed.
+2007 Sep 259 16:07:35> Program running.
+2007 Sep 259 16:08:02> Program end.
+2007 Sep 259 16:10:47> -------- Program start.
+2007 Sep 259 16:10:47> Initialization commencing.
+2007 Sep 259 16:10:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 16:10:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 16:10:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 16:10:48> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 16:10:48> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 16:10:48> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 16:10:49> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 16:10:49> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 16:10:49> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 16:10:49> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 16:10:49> Script(AI0): Script initialization.
+2007 Sep 259 16:10:49> Script(AI1): Script initialization.
+2007 Sep 259 16:10:49> Script(AI2): Script initialization.
+2007 Sep 259 16:10:49> Script(AI3): Script initialization.
+2007 Sep 259 16:10:49> Initialization completed.
+2007 Sep 259 16:10:49> Program running.
+2007 Sep 259 16:10:59> Program end.
+2007 Sep 259 16:11:38> -------- Program start.
+2007 Sep 259 16:11:38> Initialization commencing.
+2007 Sep 259 16:11:38> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 16:11:38> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 16:11:39> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 16:11:39> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 16:11:39> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 16:11:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 16:11:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 16:11:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 16:11:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 16:11:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 16:11:40> Script(AI0): Script initialization.
+2007 Sep 259 16:11:40> Script(AI1): Script initialization.
+2007 Sep 259 16:11:40> Script(AI2): Script initialization.
+2007 Sep 259 16:11:40> Script(AI3): Script initialization.
+2007 Sep 259 16:11:40> Initialization completed.
+2007 Sep 259 16:11:40> Program running.
+2007 Sep 259 16:11:43> Program end.
+2007 Sep 259 16:12:51> -------- Program start.
+2007 Sep 259 16:12:51> Initialization commencing.
+2007 Sep 259 16:12:51> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 16:12:51> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 16:12:51> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 16:12:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 16:12:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 16:12:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 16:12:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 16:12:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 16:12:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 16:12:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 16:12:53> Script(AI0): Script initialization.
+2007 Sep 259 16:12:53> Script(AI1): Script initialization.
+2007 Sep 259 16:12:53> Script(AI2): Script initialization.
+2007 Sep 259 16:12:53> Script(AI3): Script initialization.
+2007 Sep 259 16:12:53> Initialization completed.
+2007 Sep 259 16:12:53> Program running.
+2007 Sep 259 16:12:57> Program end.
+2007 Sep 259 16:13:02> -------- Program start.
+2007 Sep 259 16:13:02> Initialization commencing.
+2007 Sep 259 16:13:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 16:13:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 16:13:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 16:13:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 16:13:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 16:13:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 16:13:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 16:13:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 16:13:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 16:13:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 16:13:05> Script(AI0): Script initialization.
+2007 Sep 259 16:13:05> Script(AI1): Script initialization.
+2007 Sep 259 16:13:05> Script(AI2): Script initialization.
+2007 Sep 259 16:13:05> Script(AI3): Script initialization.
+2007 Sep 259 16:13:05> Initialization completed.
+2007 Sep 259 16:13:05> Program running.
+2007 Sep 259 16:13:08> Program end.
+2007 Sep 259 16:13:34> -------- Program start.
+2007 Sep 259 16:13:34> Initialization commencing.
+2007 Sep 259 16:13:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 16:13:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 16:13:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 16:13:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 16:13:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 16:13:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 16:13:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 16:13:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 16:13:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 16:13:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 16:13:37> Script(AI0): Script initialization.
+2007 Sep 259 16:13:37> Script(AI1): Script initialization.
+2007 Sep 259 16:13:37> Script(AI2): Script initialization.
+2007 Sep 259 16:13:37> Script(AI3): Script initialization.
+2007 Sep 259 16:13:37> Initialization completed.
+2007 Sep 259 16:13:37> Program running.
+2007 Sep 259 16:14:01> Program end.
+2007 Sep 259 17:05:28> -------- Program start.
+2007 Sep 259 17:05:28> Initialization commencing.
+2007 Sep 259 17:05:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 17:05:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 17:05:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 17:05:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 17:05:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 17:05:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 17:05:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 17:05:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 17:05:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 17:05:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 17:05:30> Script(AI0): Script initialization.
+2007 Sep 259 17:05:30> Script(AI1): Script initialization.
+2007 Sep 259 17:05:30> Script(AI2): Script initialization.
+2007 Sep 259 17:05:30> Script(AI3): Script initialization.
+2007 Sep 259 17:05:30> Initialization completed.
+2007 Sep 259 17:05:30> Program running.
+2007 Sep 259 17:06:57> Program end.
+2007 Sep 259 17:07:27> -------- Program start.
+2007 Sep 259 17:07:27> Initialization commencing.
+2007 Sep 259 17:07:27> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 17:07:27> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 17:07:27> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 17:07:27> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 17:07:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 17:07:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 17:07:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 17:07:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 17:07:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 17:07:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 17:07:29> Script(AI0): Script initialization.
+2007 Sep 259 17:07:29> Script(AI1): Script initialization.
+2007 Sep 259 17:07:29> Script(AI2): Script initialization.
+2007 Sep 259 17:07:29> Script(AI3): Script initialization.
+2007 Sep 259 17:07:29> Initialization completed.
+2007 Sep 259 17:07:29> Program running.
+2007 Sep 259 17:07:40> Program end.
+2007 Sep 259 17:52:44> -------- Program start.
+2007 Sep 259 17:52:44> Initialization commencing.
+2007 Sep 259 17:52:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 17:52:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 17:52:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 17:52:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 17:52:46> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 17:52:46> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 17:52:46> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 17:52:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 17:52:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 17:52:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 17:52:47> Script(AI0): Script initialization.
+2007 Sep 259 17:52:47> Script(AI1): Script initialization.
+2007 Sep 259 17:52:47> Script(AI2): Script initialization.
+2007 Sep 259 17:52:47> Script(AI3): Script initialization.
+2007 Sep 259 17:52:47> Initialization completed.
+2007 Sep 259 17:52:47> Program running.
+2007 Sep 259 17:52:50> Program end.
+2007 Sep 259 17:59:12> -------- Program start.
+2007 Sep 259 17:59:13> Initialization commencing.
+2007 Sep 259 17:59:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 17:59:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 17:59:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 17:59:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 17:59:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 17:59:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 17:59:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 17:59:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 17:59:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 17:59:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 17:59:15> Initialization completed.
+2007 Sep 259 17:59:15> Program running.
+2007 Sep 259 17:59:16> Program end.
+2007 Sep 259 18:12:43> -------- Program start.
+2007 Sep 259 18:12:43> Initialization commencing.
+2007 Sep 259 18:12:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 18:12:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 18:12:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 18:12:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 18:12:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 18:12:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 18:12:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 18:12:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 18:12:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 18:12:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 18:12:45> Script(AI0): Script initialization.
+2007 Sep 259 18:12:45> Script(AI1): Script initialization.
+2007 Sep 259 18:12:45> Script(AI2): Script initialization.
+2007 Sep 259 18:12:45> Script(AI3): Script initialization.
+2007 Sep 259 18:12:45> Initialization completed.
+2007 Sep 259 18:12:45> Program running.
+2007 Sep 259 18:13:03> Program end.
+2007 Sep 259 19:17:16> -------- Program start.
+2007 Sep 259 19:17:16> Initialization commencing.
+2007 Sep 259 19:17:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 19:17:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 19:17:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 19:17:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 19:17:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 19:17:18> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 19:17:18> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 19:17:18> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 19:17:18> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 19:17:18> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 19:17:18> Script(AI0): Script initialization.
+2007 Sep 259 19:17:18> Script(AI1): Script initialization.
+2007 Sep 259 19:17:18> Script(AI2): Script initialization.
+2007 Sep 259 19:17:18> Script(AI3): Script initialization.
+2007 Sep 259 19:17:18> Initialization completed.
+2007 Sep 259 19:17:18> Program running.
+2007 Sep 259 19:17:28> Program end.
+2007 Sep 259 19:17:53> -------- Program start.
+2007 Sep 259 19:17:53> Initialization commencing.
+2007 Sep 259 19:17:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 19:17:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 19:17:54> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 19:17:54> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 19:17:54> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 19:17:55> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 19:17:55> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 19:17:55> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 19:17:55> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 19:17:55> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 19:17:55> Script(AI0): Script initialization.
+2007 Sep 259 19:17:55> Script(AI1): Script initialization.
+2007 Sep 259 19:17:55> Script(AI2): Script initialization.
+2007 Sep 259 19:17:55> Script(AI3): Script initialization.
+2007 Sep 259 19:17:55> Initialization completed.
+2007 Sep 259 19:17:55> Program running.
+2007 Sep 259 19:17:56> Program end.
+2007 Sep 259 19:18:50> -------- Program start.
+2007 Sep 259 19:18:50> Initialization commencing.
+2007 Sep 259 19:18:50> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 19:18:51> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 19:18:51> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 19:18:51> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 19:18:51> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 19:18:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 19:18:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 19:18:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 19:18:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 19:18:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 19:18:52> Script(AI0): Script initialization.
+2007 Sep 259 19:18:52> Script(AI1): Script initialization.
+2007 Sep 259 19:18:52> Script(AI2): Script initialization.
+2007 Sep 259 19:18:52> Script(AI3): Script initialization.
+2007 Sep 259 19:18:52> Initialization completed.
+2007 Sep 259 19:18:52> Program running.
+2007 Sep 259 19:19:38> Program end.
+2007 Sep 259 19:19:56> -------- Program start.
+2007 Sep 259 19:19:56> Initialization commencing.
+2007 Sep 259 19:19:56> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 19:19:56> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 19:19:56> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 19:19:57> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 19:19:57> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 19:19:57> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 19:19:58> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 19:19:58> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 19:19:58> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 19:19:58> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 19:19:58> Script(AI0): Script initialization.
+2007 Sep 259 19:19:58> Script(AI1): Script initialization.
+2007 Sep 259 19:19:58> Script(AI2): Script initialization.
+2007 Sep 259 19:19:58> Script(AI3): Script initialization.
+2007 Sep 259 19:19:58> Initialization completed.
+2007 Sep 259 19:19:58> Program running.
+2007 Sep 259 19:20:04> Program end.
+2007 Sep 259 19:20:44> -------- Program start.
+2007 Sep 259 19:20:44> Initialization commencing.
+2007 Sep 259 19:20:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 19:20:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 19:20:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 19:20:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 19:20:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 19:20:46> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 19:20:46> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 19:20:46> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 19:20:46> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 19:20:46> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 19:20:46> Script(AI0): Script initialization.
+2007 Sep 259 19:20:46> Script(AI1): Script initialization.
+2007 Sep 259 19:20:46> Script(AI2): Script initialization.
+2007 Sep 259 19:20:46> Script(AI3): Script initialization.
+2007 Sep 259 19:20:46> Initialization completed.
+2007 Sep 259 19:20:46> Program running.
+2007 Sep 259 19:21:09> Program end.
+2007 Sep 259 19:21:15> -------- Program start.
+2007 Sep 259 19:21:15> Initialization commencing.
+2007 Sep 259 19:21:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 19:21:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 19:21:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 19:21:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 19:21:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 19:21:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 19:21:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 19:21:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 19:21:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 19:21:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 19:21:17> Script(AI0): Script initialization.
+2007 Sep 259 19:21:17> Script(AI1): Script initialization.
+2007 Sep 259 19:21:17> Script(AI2): Script initialization.
+2007 Sep 259 19:21:17> Script(AI3): Script initialization.
+2007 Sep 259 19:21:17> Initialization completed.
+2007 Sep 259 19:21:17> Program running.
+2007 Sep 259 19:21:53> Program end.
+2007 Sep 259 19:31:35> -------- Program start.
+2007 Sep 259 19:31:35> Initialization commencing.
+2007 Sep 259 19:31:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 19:31:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 19:31:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 19:31:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 19:31:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 19:31:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 19:31:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 19:31:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 19:31:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 19:31:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 19:31:37> Script(AI0): Script initialization.
+2007 Sep 259 19:31:37> Script(AI1): Script initialization.
+2007 Sep 259 19:31:37> Script(AI2): Script initialization.
+2007 Sep 259 19:31:37> Script(AI3): Script initialization.
+2007 Sep 259 19:31:37> Initialization completed.
+2007 Sep 259 19:31:37> Program running.
+2007 Sep 259 19:31:39> Program end.
+2007 Sep 259 19:33:52> -------- Program start.
+2007 Sep 259 19:33:52> Initialization commencing.
+2007 Sep 259 19:33:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 19:33:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 19:33:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 19:33:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 19:33:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 19:33:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 19:33:54> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 19:33:54> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 19:33:54> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 19:33:54> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 19:33:54> Script(AI0): Script initialization.
+2007 Sep 259 19:33:54> Script(AI1): Script initialization.
+2007 Sep 259 19:33:54> Script(AI2): Script initialization.
+2007 Sep 259 19:33:54> Script(AI3): Script initialization.
+2007 Sep 259 19:33:54> Initialization completed.
+2007 Sep 259 19:33:54> Program running.
+2007 Sep 259 19:33:56> Program end.
+2007 Sep 259 19:53:12> -------- Program start.
+2007 Sep 259 19:53:12> Initialization commencing.
+2007 Sep 259 19:53:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 19:53:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 19:53:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 19:53:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 19:53:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 19:53:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 19:53:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 19:53:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 19:53:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 19:53:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 19:53:14> Initialization completed.
+2007 Sep 259 19:53:14> Program running.
+2007 Sep 259 19:53:23> Program end.
+2007 Sep 259 19:56:35> -------- Program start.
+2007 Sep 259 19:56:35> Initialization commencing.
+2007 Sep 259 19:56:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 19:56:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 19:56:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 19:56:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 19:56:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 19:56:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 19:56:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 19:56:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 19:56:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 19:56:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 19:56:37> Initialization completed.
+2007 Sep 259 19:56:37> Program running.
+2007 Sep 259 19:56:46> Program end.
+2007 Sep 259 19:58:12> -------- Program start.
+2007 Sep 259 19:58:12> Initialization commencing.
+2007 Sep 259 19:58:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 19:58:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 19:58:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 19:58:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 19:58:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 19:58:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 19:58:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 19:58:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 19:58:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 19:58:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 19:58:14> Script(AI0): Script initialization.
+2007 Sep 259 19:58:14> Script(AI1): Script initialization.
+2007 Sep 259 19:58:14> Script(AI2): Script initialization.
+2007 Sep 259 19:58:14> Script(AI3): Script initialization.
+2007 Sep 259 19:58:14> Initialization completed.
+2007 Sep 259 19:58:14> Program running.
+2007 Sep 259 19:58:17> Program end.
+2007 Sep 259 20:03:42> -------- Program start.
+2007 Sep 259 20:03:42> Initialization commencing.
+2007 Sep 259 20:03:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 20:03:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 20:03:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 20:03:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 20:03:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 20:03:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 20:03:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 20:03:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 20:03:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 20:03:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 20:03:45> Script(AI0): Script initialization.
+2007 Sep 259 20:03:45> Script(AI1): Script initialization.
+2007 Sep 259 20:03:45> Script(AI2): Script initialization.
+2007 Sep 259 20:03:45> Script(AI3): Script initialization.
+2007 Sep 259 20:03:45> Initialization completed.
+2007 Sep 259 20:03:45> Program running.
+2007 Sep 259 20:03:59> Program end.
+2007 Sep 259 20:11:56> -------- Program start.
+2007 Sep 259 20:11:56> Initialization commencing.
+2007 Sep 259 20:11:56> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 20:11:56> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 20:11:56> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 20:11:57> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 20:11:57> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 20:11:57> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 20:11:58> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 20:11:58> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 20:11:58> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 20:11:58> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 20:11:58> Script(AI0): Script initialization.
+2007 Sep 259 20:11:58> Script(AI1): Script initialization.
+2007 Sep 259 20:11:58> Script(AI2): Script initialization.
+2007 Sep 259 20:11:58> Script(AI3): Script initialization.
+2007 Sep 259 20:11:58> Initialization completed.
+2007 Sep 259 20:11:58> Program running.
+2007 Sep 259 20:12:01> Program end.
+2007 Sep 259 20:12:27> -------- Program start.
+2007 Sep 259 20:12:27> Initialization commencing.
+2007 Sep 259 20:12:27> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 20:12:27> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 20:12:27> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 20:12:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 20:12:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 20:12:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 20:12:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 20:12:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 20:12:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 20:12:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 20:12:29> Script(AI0): Script initialization.
+2007 Sep 259 20:12:29> Script(AI1): Script initialization.
+2007 Sep 259 20:12:29> Script(AI2): Script initialization.
+2007 Sep 259 20:12:29> Script(AI3): Script initialization.
+2007 Sep 259 20:12:29> Initialization completed.
+2007 Sep 259 20:12:29> Program running.
+2007 Sep 259 20:12:40> Program end.
+2007 Sep 259 20:12:41> -------- Program start.
+2007 Sep 259 20:12:42> Initialization commencing.
+2007 Sep 259 20:12:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 20:12:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 20:12:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 20:12:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 20:12:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 20:12:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 20:12:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 20:12:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 20:12:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 20:12:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 20:12:44> Script(AI0): Script initialization.
+2007 Sep 259 20:12:44> Script(AI1): Script initialization.
+2007 Sep 259 20:12:44> Script(AI2): Script initialization.
+2007 Sep 259 20:12:44> Script(AI3): Script initialization.
+2007 Sep 259 20:12:44> Initialization completed.
+2007 Sep 259 20:12:44> Program running.
+2007 Sep 259 20:12:49> Program end.
+2007 Sep 259 20:13:12> -------- Program start.
+2007 Sep 259 20:13:12> Initialization commencing.
+2007 Sep 259 20:13:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 20:13:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 20:13:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 20:13:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 20:13:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 20:13:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 20:13:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 20:13:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 20:13:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 20:13:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 20:13:14> Script(AI0): Script initialization.
+2007 Sep 259 20:13:14> Script(AI1): Script initialization.
+2007 Sep 259 20:13:14> Script(AI2): Script initialization.
+2007 Sep 259 20:13:14> Script(AI3): Script initialization.
+2007 Sep 259 20:13:14> Initialization completed.
+2007 Sep 259 20:13:14> Program running.
+2007 Sep 259 20:13:41> Program end.
+2007 Sep 259 20:14:15> -------- Program start.
+2007 Sep 259 20:14:15> Initialization commencing.
+2007 Sep 259 20:14:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 20:14:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 20:14:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 20:14:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 20:14:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 20:14:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 20:14:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 20:14:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 20:14:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 20:14:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 20:14:18> Script(AI0): Script initialization.
+2007 Sep 259 20:14:18> Script(AI1): Script initialization.
+2007 Sep 259 20:14:18> Script(AI2): Script initialization.
+2007 Sep 259 20:14:18> Script(AI3): Script initialization.
+2007 Sep 259 20:14:18> Initialization completed.
+2007 Sep 259 20:14:18> Program running.
+2007 Sep 259 20:15:29> Program end.
+2007 Sep 259 20:16:39> -------- Program start.
+2007 Sep 259 20:16:39> Initialization commencing.
+2007 Sep 259 20:16:39> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 20:16:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 20:16:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 20:16:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 20:16:41> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 20:16:41> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 20:16:41> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 20:16:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 20:16:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 20:16:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 20:16:42> Script(AI0): Script initialization.
+2007 Sep 259 20:16:42> Script(AI1): Script initialization.
+2007 Sep 259 20:16:42> Script(AI2): Script initialization.
+2007 Sep 259 20:16:42> Script(AI3): Script initialization.
+2007 Sep 259 20:16:42> Initialization completed.
+2007 Sep 259 20:16:42> Program running.
+2007 Sep 259 20:16:48> Program end.
+2007 Sep 259 20:17:01> -------- Program start.
+2007 Sep 259 20:17:01> Initialization commencing.
+2007 Sep 259 20:17:01> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 259 20:17:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 259 20:17:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 259 20:17:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 259 20:17:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 259 20:17:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 259 20:17:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 259 20:17:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 259 20:17:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 259 20:17:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 259 20:17:04> Script(AI0): Script initialization.
+2007 Sep 259 20:17:04> Script(AI1): Script initialization.
+2007 Sep 259 20:17:04> Script(AI2): Script initialization.
+2007 Sep 259 20:17:04> Script(AI3): Script initialization.
+2007 Sep 259 20:17:04> Initialization completed.
+2007 Sep 259 20:17:04> Program running.
+2007 Sep 259 20:18:15> Program end.
+2007 Sep 266 14:50:34> -------- Program start.
+2007 Sep 266 14:50:35> Initialization commencing.
+2007 Sep 266 14:50:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 14:50:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 14:50:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 14:50:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 14:50:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 14:50:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 14:50:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 14:50:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 14:50:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 14:50:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 14:50:37> Script(AI0): Script initialization.
+2007 Sep 266 14:50:37> Script(AI1): Script initialization.
+2007 Sep 266 14:50:37> Script(AI2): Script initialization.
+2007 Sep 266 14:50:37> Script(AI3): Script initialization.
+2007 Sep 266 14:50:37> Initialization completed.
+2007 Sep 266 14:50:37> Program running.
+2007 Sep 266 14:50:45> Program end.
+2007 Sep 266 15:37:33> -------- Program start.
+2007 Sep 266 15:37:33> Initialization commencing.
+2007 Sep 266 15:37:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 15:37:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 15:37:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 15:37:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 15:37:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 15:37:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 15:37:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 15:37:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 15:37:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 15:37:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 15:37:36> Script(AI0): Script initialization.
+2007 Sep 266 15:37:36> Script(AI1): Script initialization.
+2007 Sep 266 15:37:36> Script(AI2): Script initialization.
+2007 Sep 266 15:37:36> Script(AI3): Script initialization.
+2007 Sep 266 15:37:36> Initialization completed.
+2007 Sep 266 15:37:36> Program running.
+2007 Sep 266 15:38:43> Program end.
+2007 Sep 266 15:42:07> -------- Program start.
+2007 Sep 266 15:42:07> Initialization commencing.
+2007 Sep 266 15:42:07> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 15:42:07> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 15:42:07> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 15:42:07> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 15:42:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 15:42:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 15:42:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 15:42:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 15:42:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 15:42:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 15:42:09> Script(AI0): Script initialization.
+2007 Sep 266 15:42:09> Script(AI1): Script initialization.
+2007 Sep 266 15:42:09> Script(AI2): Script initialization.
+2007 Sep 266 15:42:09> Script(AI3): Script initialization.
+2007 Sep 266 15:42:09> Initialization completed.
+2007 Sep 266 15:42:09> Program running.
+2007 Sep 266 15:43:04> Program end.
+2007 Sep 266 15:43:13> -------- Program start.
+2007 Sep 266 15:43:13> Initialization commencing.
+2007 Sep 266 15:43:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 15:43:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 15:43:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 15:43:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 15:43:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 15:43:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 15:43:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 15:43:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 15:43:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 15:43:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 15:43:15> Script(AI0): Script initialization.
+2007 Sep 266 15:43:15> Script(AI1): Script initialization.
+2007 Sep 266 15:43:15> Script(AI2): Script initialization.
+2007 Sep 266 15:43:15> Script(AI3): Script initialization.
+2007 Sep 266 15:43:15> Initialization completed.
+2007 Sep 266 15:43:15> Program running.
+2007 Sep 266 15:44:23> Program end.
+2007 Sep 266 15:45:41> -------- Program start.
+2007 Sep 266 15:45:41> Initialization commencing.
+2007 Sep 266 15:45:41> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 15:45:41> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 15:45:41> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 15:45:41> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 15:45:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 15:45:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 15:45:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 15:45:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 15:45:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 15:45:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 15:45:43> Script(AI0): Script initialization.
+2007 Sep 266 15:45:43> Script(AI1): Script initialization.
+2007 Sep 266 15:45:43> Script(AI2): Script initialization.
+2007 Sep 266 15:45:43> Script(AI3): Script initialization.
+2007 Sep 266 15:45:43> Initialization completed.
+2007 Sep 266 15:45:43> Program running.
+2007 Sep 266 15:45:48> Program end.
+2007 Sep 266 16:03:23> -------- Program start.
+2007 Sep 266 16:03:23> Initialization commencing.
+2007 Sep 266 16:03:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:03:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:03:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:03:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:03:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:03:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:03:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:03:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:03:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:03:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:03:25> Script(AI0): Script initialization.
+2007 Sep 266 16:03:25> Script(AI1): Script initialization.
+2007 Sep 266 16:03:25> Script(AI2): Script initialization.
+2007 Sep 266 16:03:25> Script(AI3): Script initialization.
+2007 Sep 266 16:03:25> Initialization completed.
+2007 Sep 266 16:03:25> Program running.
+2007 Sep 266 16:04:39> Program end.
+2007 Sep 266 16:10:47> -------- Program start.
+2007 Sep 266 16:10:47> Initialization commencing.
+2007 Sep 266 16:10:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:10:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:10:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:10:48> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:10:48> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:10:48> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:10:49> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:10:49> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:10:49> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:10:49> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:10:49> Script(AI0): Script initialization.
+2007 Sep 266 16:10:49> Script(AI1): Script initialization.
+2007 Sep 266 16:10:49> Script(AI2): Script initialization.
+2007 Sep 266 16:10:49> Script(AI3): Script initialization.
+2007 Sep 266 16:10:49> Initialization completed.
+2007 Sep 266 16:10:49> Program running.
+2007 Sep 266 16:11:10> Program end.
+2007 Sep 266 16:11:55> -------- Program start.
+2007 Sep 266 16:11:55> Initialization commencing.
+2007 Sep 266 16:11:55> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:11:55> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:11:55> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:11:56> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:11:56> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:11:57> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:11:57> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:11:57> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:11:57> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:11:57> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:11:57> Script(AI0): Script initialization.
+2007 Sep 266 16:11:57> Script(AI1): Script initialization.
+2007 Sep 266 16:11:57> Script(AI2): Script initialization.
+2007 Sep 266 16:11:57> Script(AI3): Script initialization.
+2007 Sep 266 16:11:57> Initialization completed.
+2007 Sep 266 16:11:57> Program running.
+2007 Sep 266 16:12:14> Program end.
+2007 Sep 266 16:13:02> -------- Program start.
+2007 Sep 266 16:13:02> Initialization commencing.
+2007 Sep 266 16:13:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:13:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:13:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:13:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:13:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:13:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:13:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:13:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:13:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:13:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:13:04> Script(AI0): Script initialization.
+2007 Sep 266 16:13:04> Script(AI1): Script initialization.
+2007 Sep 266 16:13:04> Script(AI2): Script initialization.
+2007 Sep 266 16:13:04> Script(AI3): Script initialization.
+2007 Sep 266 16:13:04> Initialization completed.
+2007 Sep 266 16:13:04> Program running.
+2007 Sep 266 16:13:33> Program end.
+2007 Sep 266 16:15:06> -------- Program start.
+2007 Sep 266 16:15:06> Initialization commencing.
+2007 Sep 266 16:15:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:15:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:15:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:15:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:15:07> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:15:07> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:15:07> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:15:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:15:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:15:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:15:08> Script(AI0): Script initialization.
+2007 Sep 266 16:15:08> Script(AI1): Script initialization.
+2007 Sep 266 16:15:08> Script(AI2): Script initialization.
+2007 Sep 266 16:15:08> Script(AI3): Script initialization.
+2007 Sep 266 16:15:08> Initialization completed.
+2007 Sep 266 16:15:08> Program running.
+2007 Sep 266 16:15:33> Program end.
+2007 Sep 266 16:16:50> -------- Program start.
+2007 Sep 266 16:16:50> Initialization commencing.
+2007 Sep 266 16:16:50> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:16:50> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:16:50> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:16:50> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:16:51> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:16:51> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:16:51> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:16:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:16:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:16:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:16:52> Script(AI0): Script initialization.
+2007 Sep 266 16:16:52> Script(AI1): Script initialization.
+2007 Sep 266 16:16:52> Script(AI2): Script initialization.
+2007 Sep 266 16:16:52> Script(AI3): Script initialization.
+2007 Sep 266 16:16:52> Initialization completed.
+2007 Sep 266 16:16:52> Program running.
+2007 Sep 266 16:18:05> Program end.
+2007 Sep 266 16:18:22> -------- Program start.
+2007 Sep 266 16:18:22> Initialization commencing.
+2007 Sep 266 16:18:22> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:18:22> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:18:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:18:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:18:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:18:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:18:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:18:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:18:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:18:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:18:24> Script(AI0): Script initialization.
+2007 Sep 266 16:18:24> Script(AI1): Script initialization.
+2007 Sep 266 16:18:24> Script(AI2): Script initialization.
+2007 Sep 266 16:18:24> Script(AI3): Script initialization.
+2007 Sep 266 16:18:24> Initialization completed.
+2007 Sep 266 16:18:24> Program running.
+2007 Sep 266 16:18:59> Program end.
+2007 Sep 266 16:20:21> -------- Program start.
+2007 Sep 266 16:20:21> Initialization commencing.
+2007 Sep 266 16:20:21> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:20:21> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:20:21> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:20:21> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:20:22> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:20:22> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:20:22> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:20:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:20:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:20:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:20:23> Script(AI0): Script initialization.
+2007 Sep 266 16:20:23> Script(AI1): Script initialization.
+2007 Sep 266 16:20:23> Script(AI2): Script initialization.
+2007 Sep 266 16:20:23> Script(AI3): Script initialization.
+2007 Sep 266 16:20:23> Initialization completed.
+2007 Sep 266 16:20:23> Program running.
+2007 Sep 266 16:20:54> Program end.
+2007 Sep 266 16:21:10> -------- Program start.
+2007 Sep 266 16:21:10> Initialization commencing.
+2007 Sep 266 16:21:10> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:21:10> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:21:10> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:21:10> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:21:11> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:21:11> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:21:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:21:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:21:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:21:12> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:21:12> Script(AI0): Script initialization.
+2007 Sep 266 16:21:12> Script(AI1): Script initialization.
+2007 Sep 266 16:21:12> Script(AI2): Script initialization.
+2007 Sep 266 16:21:12> Script(AI3): Script initialization.
+2007 Sep 266 16:21:12> Initialization completed.
+2007 Sep 266 16:21:12> Program running.
+2007 Sep 266 16:21:16> Program end.
+2007 Sep 266 16:22:21> -------- Program start.
+2007 Sep 266 16:22:21> Initialization commencing.
+2007 Sep 266 16:22:21> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:22:21> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:22:21> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:22:22> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:22:22> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:22:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:22:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:22:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:22:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:22:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:22:23> Script(AI0): Script initialization.
+2007 Sep 266 16:22:23> Script(AI1): Script initialization.
+2007 Sep 266 16:22:23> Script(AI2): Script initialization.
+2007 Sep 266 16:22:23> Script(AI3): Script initialization.
+2007 Sep 266 16:22:23> Initialization completed.
+2007 Sep 266 16:22:23> Program running.
+2007 Sep 266 16:22:33> Program end.
+2007 Sep 266 16:44:42> -------- Program start.
+2007 Sep 266 16:44:42> Initialization commencing.
+2007 Sep 266 16:44:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:44:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:44:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:44:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:44:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:44:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:44:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:44:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:44:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:44:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:44:45> Script(AI0): Script initialization.
+2007 Sep 266 16:44:45> Script(AI1): Script initialization.
+2007 Sep 266 16:44:45> Script(AI2): Script initialization.
+2007 Sep 266 16:44:45> Script(AI3): Script initialization.
+2007 Sep 266 16:44:45> Initialization completed.
+2007 Sep 266 16:44:45> Program running.
+2007 Sep 266 16:45:16> Program end.
+2007 Sep 266 16:45:32> -------- Program start.
+2007 Sep 266 16:45:32> Initialization commencing.
+2007 Sep 266 16:45:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:45:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:45:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:45:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:45:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:45:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:45:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:45:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:45:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:45:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:45:34> Script(AI0): Script initialization.
+2007 Sep 266 16:45:34> Script(AI1): Script initialization.
+2007 Sep 266 16:45:34> Script(AI2): Script initialization.
+2007 Sep 266 16:45:34> Script(AI3): Script initialization.
+2007 Sep 266 16:45:34> Initialization completed.
+2007 Sep 266 16:45:34> Program running.
+2007 Sep 266 16:45:45> Program end.
+2007 Sep 266 16:47:23> -------- Program start.
+2007 Sep 266 16:47:23> Initialization commencing.
+2007 Sep 266 16:47:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:47:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:47:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:47:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:47:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:47:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:47:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:47:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:47:26> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:47:26> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:47:26> Script(AI0): Script initialization.
+2007 Sep 266 16:47:26> Script(AI1): Script initialization.
+2007 Sep 266 16:47:26> Script(AI2): Script initialization.
+2007 Sep 266 16:47:26> Script(AI3): Script initialization.
+2007 Sep 266 16:47:26> Initialization completed.
+2007 Sep 266 16:47:26> Program running.
+2007 Sep 266 16:47:31> Program end.
+2007 Sep 266 16:48:09> -------- Program start.
+2007 Sep 266 16:48:09> Initialization commencing.
+2007 Sep 266 16:48:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:48:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:48:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:48:10> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:48:10> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:48:11> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:48:11> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:48:11> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:48:11> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:48:11> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:48:11> Script(AI0): Script initialization.
+2007 Sep 266 16:48:11> Script(AI1): Script initialization.
+2007 Sep 266 16:48:11> Script(AI2): Script initialization.
+2007 Sep 266 16:48:11> Script(AI3): Script initialization.
+2007 Sep 266 16:48:11> Initialization completed.
+2007 Sep 266 16:48:11> Program running.
+2007 Sep 266 16:48:16> Program end.
+2007 Sep 266 16:48:37> -------- Program start.
+2007 Sep 266 16:48:37> Initialization commencing.
+2007 Sep 266 16:48:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:48:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:48:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:48:38> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:48:38> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:48:38> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:48:39> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:48:39> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:48:39> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:48:39> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:48:39> Script(AI0): Script initialization.
+2007 Sep 266 16:48:39> Script(AI1): Script initialization.
+2007 Sep 266 16:48:39> Script(AI2): Script initialization.
+2007 Sep 266 16:48:39> Script(AI3): Script initialization.
+2007 Sep 266 16:48:39> Initialization completed.
+2007 Sep 266 16:48:39> Program running.
+2007 Sep 266 16:48:41> Program end.
+2007 Sep 266 16:49:19> -------- Program start.
+2007 Sep 266 16:49:19> Initialization commencing.
+2007 Sep 266 16:49:19> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:49:19> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:49:20> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:49:20> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:49:20> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:49:21> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:49:21> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:49:21> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:49:22> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:49:22> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:49:22> Script(AI0): Script initialization.
+2007 Sep 266 16:49:22> Script(AI1): Script initialization.
+2007 Sep 266 16:49:22> Script(AI2): Script initialization.
+2007 Sep 266 16:49:22> Script(AI3): Script initialization.
+2007 Sep 266 16:49:22> Initialization completed.
+2007 Sep 266 16:49:22> Program running.
+2007 Sep 266 16:51:03> -------- Program start.
+2007 Sep 266 16:51:04> Initialization commencing.
+2007 Sep 266 16:51:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:51:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:51:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:51:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:51:05> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:51:05> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:51:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:51:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:51:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:51:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:51:06> Script(AI0): Script initialization.
+2007 Sep 266 16:51:06> Script(AI1): Script initialization.
+2007 Sep 266 16:51:06> Script(AI2): Script initialization.
+2007 Sep 266 16:51:06> Script(AI3): Script initialization.
+2007 Sep 266 16:51:06> Initialization completed.
+2007 Sep 266 16:51:06> Program running.
+2007 Sep 266 16:52:26> Program end.
+2007 Sep 266 16:54:04> -------- Program start.
+2007 Sep 266 16:54:04> Initialization commencing.
+2007 Sep 266 16:54:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:54:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:54:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:54:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:54:05> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:54:05> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:54:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:54:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:54:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:54:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:54:06> Script(AI0): Script initialization.
+2007 Sep 266 16:54:06> Script(AI1): Script initialization.
+2007 Sep 266 16:54:06> Script(AI2): Script initialization.
+2007 Sep 266 16:54:06> Script(AI3): Script initialization.
+2007 Sep 266 16:54:06> Initialization completed.
+2007 Sep 266 16:54:06> Program running.
+2007 Sep 266 16:54:18> Program end.
+2007 Sep 266 16:54:36> -------- Program start.
+2007 Sep 266 16:54:36> Initialization commencing.
+2007 Sep 266 16:54:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:54:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:54:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:54:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:54:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:54:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:54:38> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:54:38> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:54:38> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:54:38> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:54:38> Script(AI0): Script initialization.
+2007 Sep 266 16:54:38> Script(AI1): Script initialization.
+2007 Sep 266 16:54:38> Script(AI2): Script initialization.
+2007 Sep 266 16:54:38> Script(AI3): Script initialization.
+2007 Sep 266 16:54:38> Initialization completed.
+2007 Sep 266 16:54:38> Program running.
+2007 Sep 266 16:54:49> Program end.
+2007 Sep 266 16:55:04> -------- Program start.
+2007 Sep 266 16:55:04> Initialization commencing.
+2007 Sep 266 16:55:05> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:55:05> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:55:05> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:55:05> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:55:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:55:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:55:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:55:07> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:55:07> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:55:07> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:55:07> Script(AI0): Script initialization.
+2007 Sep 266 16:55:07> Script(AI1): Script initialization.
+2007 Sep 266 16:55:07> Script(AI2): Script initialization.
+2007 Sep 266 16:55:07> Script(AI3): Script initialization.
+2007 Sep 266 16:55:07> Initialization completed.
+2007 Sep 266 16:55:07> Program running.
+2007 Sep 266 16:55:20> Program end.
+2007 Sep 266 16:55:34> -------- Program start.
+2007 Sep 266 16:55:34> Initialization commencing.
+2007 Sep 266 16:55:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:55:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:55:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:55:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:55:35> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:55:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:55:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:55:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:55:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:55:36> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:55:36> Script(AI0): Script initialization.
+2007 Sep 266 16:55:36> Script(AI1): Script initialization.
+2007 Sep 266 16:55:36> Script(AI2): Script initialization.
+2007 Sep 266 16:55:36> Script(AI3): Script initialization.
+2007 Sep 266 16:55:36> Initialization completed.
+2007 Sep 266 16:55:36> Program running.
+2007 Sep 266 16:55:47> Program end.
+2007 Sep 266 16:56:27> -------- Program start.
+2007 Sep 266 16:56:27> Initialization commencing.
+2007 Sep 266 16:56:27> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:56:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:56:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:56:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:56:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:56:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:56:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:56:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:56:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:56:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:56:30> Script(AI0): Script initialization.
+2007 Sep 266 16:56:30> Script(AI1): Script initialization.
+2007 Sep 266 16:56:30> Script(AI2): Script initialization.
+2007 Sep 266 16:56:30> Script(AI3): Script initialization.
+2007 Sep 266 16:56:30> Initialization completed.
+2007 Sep 266 16:56:30> Program running.
+2007 Sep 266 16:56:59> Program end.
+2007 Sep 266 16:57:43> -------- Program start.
+2007 Sep 266 16:57:43> Initialization commencing.
+2007 Sep 266 16:57:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:57:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:57:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:57:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:57:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:57:44> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:57:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:57:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:57:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:57:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:57:45> Script(AI0): Script initialization.
+2007 Sep 266 16:57:45> Script(AI1): Script initialization.
+2007 Sep 266 16:57:45> Script(AI2): Script initialization.
+2007 Sep 266 16:57:45> Script(AI3): Script initialization.
+2007 Sep 266 16:57:45> Initialization completed.
+2007 Sep 266 16:57:45> Program running.
+2007 Sep 266 16:58:07> Program end.
+2007 Sep 266 16:59:31> -------- Program start.
+2007 Sep 266 16:59:31> Initialization commencing.
+2007 Sep 266 16:59:31> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 16:59:31> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 16:59:31> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 16:59:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 16:59:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 16:59:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 16:59:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 16:59:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 16:59:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 16:59:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 16:59:33> Script(AI0): Script initialization.
+2007 Sep 266 16:59:33> Script(AI1): Script initialization.
+2007 Sep 266 16:59:33> Script(AI2): Script initialization.
+2007 Sep 266 16:59:33> Script(AI3): Script initialization.
+2007 Sep 266 16:59:33> Initialization completed.
+2007 Sep 266 16:59:33> Program running.
+2007 Sep 266 17:02:09> Program end.
+2007 Sep 266 17:11:08> -------- Program start.
+2007 Sep 266 17:11:08> Initialization commencing.
+2007 Sep 266 17:11:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 17:11:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 17:11:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 17:11:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 17:11:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 17:11:10> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 17:11:10> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 17:11:10> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 17:11:10> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 17:11:10> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 17:11:10> Script(AI0): Script initialization.
+2007 Sep 266 17:11:10> Script(AI1): Script initialization.
+2007 Sep 266 17:11:10> Script(AI2): Script initialization.
+2007 Sep 266 17:11:10> Script(AI3): Script initialization.
+2007 Sep 266 17:11:10> Initialization completed.
+2007 Sep 266 17:11:10> Program running.
+2007 Sep 266 17:11:35> Program end.
+2007 Sep 266 17:12:23> -------- Program start.
+2007 Sep 266 17:12:23> Initialization commencing.
+2007 Sep 266 17:12:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 17:12:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 17:12:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 17:12:23> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 17:12:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 17:12:24> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 17:12:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 17:12:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 17:12:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 17:12:25> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 17:12:25> Script(AI0): Script initialization.
+2007 Sep 266 17:12:25> Script(AI1): Script initialization.
+2007 Sep 266 17:12:25> Script(AI2): Script initialization.
+2007 Sep 266 17:12:25> Script(AI3): Script initialization.
+2007 Sep 266 17:12:25> Initialization completed.
+2007 Sep 266 17:12:25> Program running.
+2007 Sep 266 17:12:34> Program end.
+2007 Sep 266 17:25:30> -------- Program start.
+2007 Sep 266 17:25:30> Initialization commencing.
+2007 Sep 266 17:25:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 17:25:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 17:25:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 17:25:31> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 17:25:31> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 17:25:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 17:25:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 17:25:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 17:25:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 17:25:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 17:25:32> Script(AI0): Script initialization.
+2007 Sep 266 17:25:32> Script(AI1): Script initialization.
+2007 Sep 266 17:25:32> Script(AI2): Script initialization.
+2007 Sep 266 17:25:32> Script(AI3): Script initialization.
+2007 Sep 266 17:25:32> Initialization completed.
+2007 Sep 266 17:25:32> Program running.
+2007 Sep 266 17:25:40> Program end.
+2007 Sep 266 17:25:51> -------- Program start.
+2007 Sep 266 17:25:51> Initialization commencing.
+2007 Sep 266 17:25:51> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 17:25:51> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 17:25:51> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 17:25:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 17:25:52> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 17:25:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 17:25:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 17:25:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 17:25:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 17:25:53> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 17:25:53> Script(AI0): Script initialization.
+2007 Sep 266 17:25:53> Script(AI1): Script initialization.
+2007 Sep 266 17:25:53> Script(AI2): Script initialization.
+2007 Sep 266 17:25:53> Script(AI3): Script initialization.
+2007 Sep 266 17:25:53> Initialization completed.
+2007 Sep 266 17:25:53> Program running.
+2007 Sep 266 17:25:59> Program end.
+2007 Sep 266 17:26:13> -------- Program start.
+2007 Sep 266 17:26:13> Initialization commencing.
+2007 Sep 266 17:26:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 17:26:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 17:26:13> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 17:26:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 17:26:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 17:26:14> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 17:26:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 17:26:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 17:26:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 17:26:15> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 17:26:15> Script(AI0): Script initialization.
+2007 Sep 266 17:26:15> Script(AI1): Script initialization.
+2007 Sep 266 17:26:15> Script(AI2): Script initialization.
+2007 Sep 266 17:26:15> Script(AI3): Script initialization.
+2007 Sep 266 17:26:15> Initialization completed.
+2007 Sep 266 17:26:15> Program running.
+2007 Sep 266 17:26:22> Program end.
+2007 Sep 266 17:26:31> -------- Program start.
+2007 Sep 266 17:26:31> Initialization commencing.
+2007 Sep 266 17:26:31> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Sep 266 17:26:31> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Sep 266 17:26:31> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Sep 266 17:26:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Sep 266 17:26:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Sep 266 17:26:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Sep 266 17:26:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Sep 266 17:26:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Sep 266 17:26:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Sep 266 17:26:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Sep 266 17:26:33> Script(AI0): Script initialization.
+2007 Sep 266 17:26:33> Script(AI1): Script initialization.
+2007 Sep 266 17:26:33> Script(AI2): Script initialization.
+2007 Sep 266 17:26:33> Script(AI3): Script initialization.
+2007 Sep 266 17:26:33> Initialization completed.
+2007 Sep 266 17:26:33> Program running.
+2007 Sep 266 17:26:34> Program end.
+2007 Oct 275 22:07:31> -------- Program start.
+2007 Oct 275 22:07:31> Initialization commencing.
+2007 Oct 275 22:07:31> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Oct 275 22:07:31> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Oct 275 22:07:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Oct 275 22:07:32> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Oct 275 22:07:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Oct 275 22:07:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Oct 275 22:07:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Oct 275 22:07:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Oct 275 22:07:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Oct 275 22:07:34> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Oct 275 22:07:34> Script(AI0): Script initialization.
+2007 Oct 275 22:07:34> Script(AI1): Script initialization.
+2007 Oct 275 22:07:34> Script(AI2): Script initialization.
+2007 Oct 275 22:07:34> Script(AI3): Script initialization.
+2007 Oct 275 22:07:34> Initialization completed.
+2007 Oct 275 22:07:34> Program running.
+2007 Oct 275 22:10:32> Program end.
+2007 Oct 282 23:55:39> -------- Program start.
+2007 Oct 282 23:55:40> Initialization commencing.
+2007 Oct 282 23:55:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Oct 282 23:55:40> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Oct 282 23:55:41> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Oct 282 23:55:41> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Oct 282 23:55:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Oct 282 23:55:42> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Oct 282 23:55:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Oct 282 23:55:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Oct 282 23:55:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Oct 282 23:55:43> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Oct 282 23:55:43> Script(AI0): Script initialization.
+2007 Oct 282 23:55:43> Script(AI1): Script initialization.
+2007 Oct 282 23:55:43> Script(AI2): Script initialization.
+2007 Oct 282 23:55:43> Script(AI3): Script initialization.
+2007 Oct 282 23:55:43> Initialization completed.
+2007 Oct 282 23:55:43> Program running.
+2007 Oct 282 23:56:47> Program end.
+2007 Nov 314 18:54:14> -------- Program start.
+2007 Nov 314 18:54:16> Initialization commencing.
+2007 Nov 314 18:54:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2007 Nov 314 18:54:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2007 Nov 314 18:54:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2007 Nov 314 18:54:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2007 Nov 314 18:54:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2007 Nov 314 18:54:18> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2007 Nov 314 18:54:18> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2007 Nov 314 18:54:18> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2007 Nov 314 18:54:18> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2007 Nov 314 18:54:19> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2007 Nov 314 18:54:19> Script(AI0): Script initialization.
+2007 Nov 314 18:54:19> Script(AI1): Script initialization.
+2007 Nov 314 18:54:19> Script(AI2): Script initialization.
+2007 Nov 314 18:54:19> Script(AI3): Script initialization.
+2007 Nov 314 18:54:19> Initialization completed.
+2007 Nov 314 18:54:19> Program running.
+2007 Nov 314 18:54:35> Program end.
+2008 Jul 211 10:45:07> -------- Program start.
+2008 Jul 211 10:45:07> Initialization commencing.
+2008 Jul 211 10:45:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2008 Jul 211 10:45:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2008 Jul 211 10:45:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2008 Jul 211 10:45:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2008 Jul 211 10:45:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2008 Jul 211 10:45:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2008 Jul 211 10:45:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2008 Jul 211 10:45:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2008 Jul 211 10:45:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2008 Jul 211 10:45:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2008 Jul 211 10:45:10> Script(AI0): Script initialization.
+2008 Jul 211 10:45:10> Script(AI1): Script initialization.
+2008 Jul 211 10:45:10> Script(AI2): Script initialization.
+2008 Jul 211 10:45:10> Script(AI3): Script initialization.
+2008 Jul 211 10:45:10> Initialization completed.
+2008 Jul 211 10:45:10> Program running.
+2008 Jul 211 10:45:12> Program end.
+2008 Sep 256 13:56:15> -------- Program start.
+2008 Sep 256 13:56:16> Initialization commencing.
+2008 Sep 256 13:56:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2008 Sep 256 13:56:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2008 Sep 256 13:56:17> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2008 Sep 256 13:56:18> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2008 Sep 256 13:56:19> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2008 Sep 256 13:56:20> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2008 Sep 256 13:56:21> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2008 Sep 256 13:56:22> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2008 Sep 256 13:56:22> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2008 Sep 256 13:56:22> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2008 Sep 256 13:56:22> Script(AI0): Script initialization.
+2008 Sep 256 13:56:22> Script(AI1): Script initialization.
+2008 Sep 256 13:56:22> Script(AI2): Script initialization.
+2008 Sep 256 13:56:22> Script(AI3): Script initialization.
+2008 Sep 256 13:56:22> Initialization completed.
+2008 Sep 256 13:56:22> Program running.
+2008 Sep 256 13:57:25> Program end.
+2008 Oct 302 11:03:26> -------- Program start.
+2008 Oct 302 11:03:27> Initialization commencing.
+2008 Oct 302 11:03:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2008 Oct 302 11:03:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2008 Oct 302 11:03:28> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2008 Oct 302 11:03:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2008 Oct 302 11:03:29> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2008 Oct 302 11:03:30> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2008 Oct 302 12:16:56> -------- Program start.
+2008 Oct 302 12:16:56> Initialization commencing.
+2008 Oct 302 12:16:56> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2008 Oct 302 12:16:56> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2008 Oct 302 12:16:56> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2008 Oct 302 12:16:57> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2008 Oct 302 12:16:57> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2008 Oct 302 12:16:58> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2008 Oct 302 12:16:59> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2008 Oct 302 12:16:59> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2008 Oct 302 12:16:59> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2008 Oct 302 12:16:59> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2008 Oct 302 12:16:59> Script(AI0): Script initialization.
+2008 Oct 302 12:16:59> Script(AI1): Script initialization.
+2008 Oct 302 12:16:59> Script(AI2): Script initialization.
+2008 Oct 302 12:16:59> Script(AI3): Script initialization.
+2008 Oct 302 12:16:59> Initialization completed.
+2008 Oct 302 12:16:59> Program running.
+2008 Oct 302 12:17:36> Program end.
+2009 Jun 159 23:06:58> -------- Program start.
+2009 Jun 159 23:06:59> Initialization commencing.
+2009 Jun 159 23:07:00> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2009 Jun 159 23:07:00> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2009 Jun 159 23:07:00> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2009 Jun 159 23:07:01> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2009 Jun 159 23:07:01> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2009 Jun 159 23:07:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2009 Jun 159 23:07:02> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2009 Jun 159 23:07:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2009 Jun 159 23:07:03> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2009 Jun 159 23:07:03> Script(AI0): Script initialization.
+2009 Jun 159 23:07:03> Script(AI1): Script initialization.
+2009 Jun 159 23:07:03> Script(AI2): Script initialization.
+2009 Jun 159 23:07:03> Script(AI3): Script initialization.
+2009 Jun 159 23:07:03> Initialization completed.
+2009 Jun 159 23:07:03> Program running.
+2009 Jun 159 23:13:03> Program end.
+2009 Dec 361 16:14:43> -------- Program start.
+2009 Dec 361 16:14:44> Initialization commencing.
+2009 Dec 361 16:14:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2009 Dec 361 16:14:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2009 Dec 361 16:14:45> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2009 Dec 361 16:14:46> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2009 Dec 361 16:14:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2009 Dec 361 16:14:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2009 Dec 361 16:14:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2009 Dec 361 16:14:47> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2009 Dec 361 16:14:47> Script(AI0): Script initialization.
+2009 Dec 361 16:14:48> Script(AI1): Script initialization.
+2009 Dec 361 16:14:48> Script(AI2): Script initialization.
+2009 Dec 361 16:14:48> Script(AI3): Script initialization.
+2009 Dec 361 16:14:48> Initialization completed.
+2009 Dec 361 16:14:48> Program running.
+2009 Dec 361 16:16:59> Program end.
+2010 Feb 035 13:52:01> -------- Program start.
+2010 Feb 035 13:52:03> Initialization commencing.
+2010 Feb 035 13:52:05> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2010 Feb 035 13:52:06> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2010 Feb 035 13:52:07> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2010 Feb 035 13:52:07> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2010 Feb 035 13:52:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2010 Feb 035 13:52:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2010 Feb 035 13:52:08> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2010 Feb 035 13:52:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2010 Feb 035 13:52:09> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2010 Feb 035 13:52:10> Script(AI0): Script initialization.
+2010 Feb 035 13:52:10> Script(AI1): Script initialization.
+2010 Feb 035 13:52:10> Script(AI2): Script initialization.
+2010 Feb 035 13:52:10> Script(AI3): Script initialization.
+2010 Feb 035 13:52:10> Initialization completed.
+2010 Feb 035 13:52:10> Program running.
+2010 Feb 035 13:54:02> Program end.
+2015 May 126 22:11:19> -------- Program start.
+2015 May 126 22:11:19> Initialization commencing.
+2015 May 126 22:11:19> Success: cModel::loadFile(): Loaded model from file 'data/mdls/crate.obj'
+2015 May 126 22:11:19> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2015 May 126 22:11:19> Success: cModel::loadFile(): Loaded model from file 'data/mdls/landscape.obj'
+2015 May 126 22:11:19> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber1.obj'
+2015 May 126 22:11:19> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber2.obj'
+2015 May 126 22:11:20> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber3.obj'
+2015 May 126 22:11:20> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomber4.obj'
+2015 May 126 22:11:20> Success: cModel::loadFile(): Loaded model from file 'data/mdls/bomb.obj'
+2015 May 126 22:11:20> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_bomb.obj'
+2015 May 126 22:11:20> Success: cModel::loadFile(): Loaded model from file 'data/mdls/powerup_blowlength.obj'
+2015 May 126 22:11:20> Script(AI0): Script initialization.
+2015 May 126 22:11:20> Script(AI1): Script initialization.
+2015 May 126 22:11:20> Script(AI2): Script initialization.
+2015 May 126 22:11:20> Script(AI3): Script initialization.
+2015 May 126 22:11:20> Initialization completed.
+2015 May 126 22:11:20> Program running.
+2015 May 126 22:11:36> Program end.

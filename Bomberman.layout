@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Bomberman.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="11083" topLine="395" />
+	</File>
+	<File name="Bomberman.h" open="1" top="0" tabpos="5">
+		<Cursor position="193" topLine="0" />
+	</File>
+	<File name="OGL.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="18574" topLine="368" />
+	</File>
+	<File name="OGL.h" open="0" top="0" tabpos="7">
+		<Cursor position="1953" topLine="0" />
+	</File>
+	<File name="ai.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="657" topLine="0" />
+	</File>
+	<File name="ai.h" open="1" top="0" tabpos="4">
+		<Cursor position="107" topLine="3" />
+	</File>
+	<File name="bomb.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="207" topLine="0" />
+	</File>
+	<File name="bomb.h" open="0" top="0" tabpos="4">
+		<Cursor position="97" topLine="0" />
+	</File>
+	<File name="commons.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="1482" topLine="40" />
+	</File>
+	<File name="commons.h" open="0" top="0" tabpos="10">
+		<Cursor position="435" topLine="0" />
+	</File>
+	<File name="debugout.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="288" topLine="0" />
+	</File>
+	<File name="debugout.h" open="0" top="0" tabpos="6">
+		<Cursor position="90" topLine="0" />
+	</File>
+	<File name="geometry.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="579" topLine="0" />
+	</File>
+	<File name="geometry.h" open="0" top="0" tabpos="8">
+		<Cursor position="436" topLine="0" />
+	</File>
+	<File name="gltext.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="1714" topLine="0" />
+	</File>
+	<File name="gltext.h" open="1" top="0" tabpos="11">
+		<Cursor position="176" topLine="0" />
+	</File>
+	<File name="map.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="369" topLine="0" />
+	</File>
+	<File name="map.h" open="1" top="0" tabpos="8">
+		<Cursor position="492" topLine="13" />
+	</File>
+	<File name="model.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="6547" topLine="72" />
+	</File>
+	<File name="model.h" open="0" top="0" tabpos="9">
+		<Cursor position="290" topLine="0" />
+	</File>
+	<File name="particle.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="1590" topLine="6" />
+	</File>
+	<File name="particle.h" open="0" top="0" tabpos="12">
+		<Cursor position="885" topLine="18" />
+	</File>
+	<File name="player.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="3695" topLine="1" />
+	</File>
+	<File name="player.h" open="1" top="0" tabpos="2">
+		<Cursor position="270" topLine="3" />
+	</File>
+	<File name="settings.h" open="0" top="0" tabpos="5">
+		<Cursor position="1051" topLine="16" />
+	</File>
+	<File name="sound.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="929" topLine="21" />
+	</File>
+	<File name="sound.h" open="0" top="0" tabpos="5">
+		<Cursor position="296" topLine="0" />
+	</File>
+	<File name="timestamp.H" open="0" top="0" tabpos="10">
+		<Cursor position="67" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,30 @@
+GENERAL:
+
+Exit			-	Escape
+Toggle fullscreen	-	F1
+Pause game		-	Pause / P
+
+
+CAMERA:
+
+Pitch			-	Page Up / Page Down
+Yaw			-	Home / End
+Roll			-	Insert / Delete
+Zoom			-	+ / -
+Reset to default	-	F12
+Reset to top-down	-	F11
+
+
+BOMBERS:
+
+Movement
+Player A		-	Arrow Keys Up / Down / Left / Right
+Player B		-	W / A / S / D
+Player C		-	I / K / J / L
+Player D		-	Numpad 8 / 5 / 4 / 6 (NUMLOCK on)
+
+Bomb placement
+Player A		-	Enter
+Player B		-	Tab
+Player C		-	Space
+Player D		-	Numpad 0

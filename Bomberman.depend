@@ -1,0 +1,483 @@
+# depslib dependency file v1.0
+1188838377 source:d:\proj\bomberman\ogl.cpp
+	<windows.h>
+	<stdio.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glext.h>
+	"OGL.h"
+	"settings.h"
+	"debugout.h"
+
+1187460542 d:\proj\bomberman\ogl.h
+	<windows.h>
+
+1190561185 source:d:\proj\bomberman\bomberman.cpp
+	<vector>
+	<windows.h>
+	<math.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	"settings.h"
+	"OGL.h"
+	"map.h"
+	"player.h"
+	"model.h"
+	"debugout.h"
+	"bomb.h"
+	"commons.h"
+	"sound.h"
+	"particle.h"
+	"gltext.h"
+	"ai.h"
+
+1188838377 source:c:\rune\proj\bomberman\ogl.cpp
+	<windows.h>
+	<stdio.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glext.h>
+	"OGL.h"
+	"settings.h"
+	"debugout.h"
+
+1187460542 c:\rune\proj\bomberman\ogl.h
+	<windows.h>
+
+1190561185 source:c:\rune\proj\bomberman\bomberman.cpp
+	<vector>
+	<windows.h>
+	<math.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	"settings.h"
+	"OGL.h"
+	"map.h"
+	"player.h"
+	"model.h"
+	"debugout.h"
+	"bomb.h"
+	"commons.h"
+	"sound.h"
+	"particle.h"
+	"gltext.h"
+	"ai.h"
+
+1187465649 source:c:\rune\proj\bomberman\object.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	"object.h"
+	"commons.h"
+	"gl/gl.h"
+
+1188681218 c:\rune\proj\bomberman\object.h
+	<string>
+	<vector>
+	"geometry.h"
+	"textures.h"
+	"gl/gl.h"
+
+1188904477 c:\rune\proj\bomberman\geometry.h
+	<gl\gl.h>
+	<vector>
+
+1188858556 source:c:\rune\proj\bomberman\geometry.cpp
+	"geometry.h"
+
+1188860301 c:\rune\proj\bomberman\debugout.h
+	<string>
+	"settings.h"
+
+1189023517 source:c:\rune\proj\bomberman\commons.cpp
+	<string>
+	<sstream>
+	<algorithm>
+	<vector>
+	"commons.h"
+
+1188990616 c:\rune\proj\bomberman\commons.h
+	<string>
+	<vector>
+
+1188832011 source:c:\rune\proj\bomberman\debugout.cpp
+	<fstream>
+	<string>
+	"debugout.h"
+	"timestamp.h"
+
+1189705197 c:\rune\proj\bomberman\settings.h
+
+1187517277 source:c:\rune\proj\bomberman\textures.cpp
+	"textures.h"
+	"settings.h"
+
+1188667845 c:\rune\proj\bomberman\textures.h
+	<string>
+	<vector>
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glext.h>
+
+1189963024 source:c:\rune\proj\bomberman\map.cpp
+	<vector>
+	"map.h"
+	"commons.h"
+	"settings.h"
+	"sound.h"
+	"debugout.h"
+
+1189160973 c:\rune\proj\bomberman\map.h
+	<vector>
+	"geometry.h"
+
+1190559568 source:c:\rune\proj\bomberman\player.cpp
+	<vector>
+	<lua.hpp>
+	"player.h"
+	"math.h"
+	"bomberman.h"
+	"commons.h"
+	"debugout.h"
+	"bomb.h"
+	"sound.h"
+
+1190559057 c:\rune\proj\bomberman\player.h
+	<lua.hpp>
+	"geometry.h"
+
+1188566182 d:\proj\bomberman\object.h
+	<string>
+	<vector>
+	"geometry.h"
+	"textures.h"
+	"gl/gl.h"
+
+1188904477 d:\proj\bomberman\geometry.h
+	<gl\gl.h>
+	<vector>
+
+1188667845 d:\proj\bomberman\textures.h
+	<string>
+	<vector>
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glext.h>
+
+1189160973 d:\proj\bomberman\map.h
+	<vector>
+	"geometry.h"
+
+1190559057 d:\proj\bomberman\player.h
+	<lua.hpp>
+	"geometry.h"
+
+1189705197 d:\proj\bomberman\settings.h
+
+1189023517 source:d:\proj\bomberman\commons.cpp
+	<string>
+	<sstream>
+	<algorithm>
+	<vector>
+	"commons.h"
+
+1188990616 d:\proj\bomberman\commons.h
+	<string>
+	<vector>
+
+1188860301 d:\proj\bomberman\debugout.h
+	<string>
+	"settings.h"
+
+1188832011 source:d:\proj\bomberman\debugout.cpp
+	<fstream>
+	<string>
+	"debugout.h"
+	"timestamp.h"
+
+1188858556 source:d:\proj\bomberman\geometry.cpp
+	"geometry.h"
+
+1189963024 source:d:\proj\bomberman\map.cpp
+	<vector>
+	"map.h"
+	"commons.h"
+	"settings.h"
+	"sound.h"
+	"debugout.h"
+
+1187465649 source:d:\proj\bomberman\object.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	"object.h"
+	"commons.h"
+	"gl/gl.h"
+
+1190559568 source:d:\proj\bomberman\player.cpp
+	<vector>
+	<lua.hpp>
+	"player.h"
+	"math.h"
+	"bomberman.h"
+	"commons.h"
+	"debugout.h"
+	"bomb.h"
+	"sound.h"
+
+1187517277 source:d:\proj\bomberman\textures.cpp
+	"textures.h"
+	"settings.h"
+
+1188989424 source:d:\proj\bomberman\model.cpp
+	<fstream>
+	<string>
+	<vector>
+	<windows.h>
+	<math.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glext.h>
+	"model.h"
+	"geometry.h"
+	"commons.h"
+	"settings.h"
+	"debugout.h"
+
+1188988931 d:\proj\bomberman\model.h
+	<string>
+	<vector>
+	"geometry.h"
+	"gl/gl.h"
+
+1188989424 source:c:\rune\proj\bomberman\model.cpp
+	<fstream>
+	<string>
+	<vector>
+	<windows.h>
+	<math.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glext.h>
+	"model.h"
+	"geometry.h"
+	"commons.h"
+	"settings.h"
+	"debugout.h"
+
+1188988931 c:\rune\proj\bomberman\model.h
+	<string>
+	<vector>
+	"geometry.h"
+	"gl/gl.h"
+
+1188831057 d:\proj\bomberman\timestamp.h
+
+1188831997 source:d:\proj\bomberman\timestamp.c
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<ctime>
+	"timestamp.H"
+
+1188836505 d:\proj\bomberman\glfont.h
+	<string>
+	<GL/gl.h>
+
+1021030352 source:d:\proj\bomberman\glfont.cc
+	<stdio.h>
+	"glfont.h"
+
+1021030352 source:d:\proj\bomberman\glfont.cpp
+	<stdio.h>
+	"glfont.h"
+
+1021669000 source:d:\proj\bomberman\glfont2.cpp
+	<string>
+	<utility>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<GL/gl.h>
+	"glfont2.h"
+
+1188838006 d:\proj\bomberman\glfont2.h
+
+1189951085 d:\proj\bomberman\bomberman.h
+	"map.h"
+	"bomb.h"
+	"player.h"
+
+1189951343 source:d:\proj\bomberman\bomb.cpp
+	<deque>
+	"bomb.h"
+	"settings.h"
+	"map.h"
+	"bomberman.h"
+	"debugout.h"
+	"commons.h"
+	"sound.h"
+	"particle.h"
+	"math.h"
+
+1189255748 d:\proj\bomberman\bomb.h
+	<deque>
+	"geometry.h"
+	"particle.h"
+
+1188920004 source:d:\proj\bomberman\oal.cpp
+	<stdlib.h>
+	<conio.h>
+	<string>
+	"oal.h"
+	"settings.h"
+	<al/al.h>
+	<al/alc.h>
+	<al/alut.h>
+	<vector>
+
+1188920025 d:\proj\bomberman\oal.h
+
+1189076285 d:\proj\bomberman\sound.h
+	"FMOD/fmod.h"
+
+1189965188 source:d:\proj\bomberman\sound.cpp
+	<sstream>
+	"sound.h"
+	"FMOD/fmod.h"
+	"debugout.h"
+
+1189163110 source:d:\proj\bomberman\particle.cpp
+	<deque>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glext.h>
+	<windows.h>
+	"geometry.h"
+	"particle.h"
+	"model.h"
+	"settings.h"
+	"debugout.h"
+
+1189162491 d:\proj\bomberman\particle.h
+	<string>
+	<deque>
+	"geometry.h"
+	"gl/gl.h"
+
+1189111245 source:d:\proj\bomberman\gltext.cpp
+	<gl/gl.h>
+	<string>
+	"model.h"
+	"settings.h"
+	"gltext.h"
+
+1189110934 d:\proj\bomberman\gltext.h
+	<gl/gl.h>
+
+1189963850 d:\proj\bomberman\ai.h
+	<lua.hpp>
+
+1189964027 source:d:\proj\bomberman\ai.cpp
+	<vector>
+	<string>
+	"ai.h"
+	"settings.h"
+	"debugout.h"
+	"commons.h"
+	"bomberman.h"
+	"map.h"
+	"player.h"
+	"geometry.h"
+	"math.h"
+
+1189255748 c:\rune\proj\bomberman\bomb.h
+	<deque>
+	"geometry.h"
+	"particle.h"
+
+1189162491 c:\rune\proj\bomberman\particle.h
+	<string>
+	<deque>
+	"geometry.h"
+	"gl/gl.h"
+
+1189076285 c:\rune\proj\bomberman\sound.h
+	"FMOD/fmod.h"
+
+1189110934 c:\rune\proj\bomberman\gltext.h
+	<gl/gl.h>
+
+1189963850 c:\rune\proj\bomberman\ai.h
+	<lua.hpp>
+
+1189964027 source:c:\rune\proj\bomberman\ai.cpp
+	<vector>
+	<string>
+	"ai.h"
+	"settings.h"
+	"debugout.h"
+	"commons.h"
+	"bomberman.h"
+	"map.h"
+	"player.h"
+	"geometry.h"
+	"math.h"
+
+1189951343 source:c:\rune\proj\bomberman\bomb.cpp
+	<deque>
+	"bomb.h"
+	"settings.h"
+	"map.h"
+	"bomberman.h"
+	"debugout.h"
+	"commons.h"
+	"sound.h"
+	"particle.h"
+	"math.h"
+
+1189951085 c:\rune\proj\bomberman\bomberman.h
+	"map.h"
+	"bomb.h"
+	"player.h"
+
+1188831057 c:\rune\proj\bomberman\timestamp.h
+
+1189111245 source:c:\rune\proj\bomberman\gltext.cpp
+	<gl/gl.h>
+	<string>
+	"model.h"
+	"settings.h"
+	"gltext.h"
+
+1189163110 source:c:\rune\proj\bomberman\particle.cpp
+	<deque>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glext.h>
+	<windows.h>
+	"geometry.h"
+	"particle.h"
+	"model.h"
+	"settings.h"
+	"debugout.h"
+
+1189965188 source:c:\rune\proj\bomberman\sound.cpp
+	<sstream>
+	"sound.h"
+	"FMOD/fmod.h"
+	"debugout.h"
+
+1188831997 source:c:\rune\proj\bomberman\timestamp.c
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<ctime>
+	"timestamp.H"
+

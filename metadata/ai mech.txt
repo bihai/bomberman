@@ -1,0 +1,17 @@
+A) Clear blocks mode
+	1) Walk forward.
+	2) If in range of placed bomb, change direction.
+		2.1) When no longer in range, halt until bomb has blown.
+	3) At junction, decide new direction, go to 1.
+	4) If in bomb-range of crate, place bomb, go to 3.
+	5) If near power-up, go to B
+	6) If near another bomber, go to C
+
+B) Power-up fetching mode
+	1) Path-find way to the power-up.
+		1.1) If no path, go to A.
+	2) Goto A.
+
+C) Offensive mode
+	1) Place all bombs while moving.
+	2) Go to A.
